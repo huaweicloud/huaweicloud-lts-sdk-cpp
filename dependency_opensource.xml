@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote name="codehub" fetch="https://codehub-dg-g.huawei.com/"/>
+
+    <project remote="codehub" name="opensourcecenter/open-source-parsers/jsoncpp.git" path="opensource/jsoncpp" revision="refs/tags/0.10.7"/>
+    <project remote="codehub" name="opensourcecenter/openssl/openssl.git" path="opensource/openssl" revision="refs/tags/OpenSSL_1_1_1g"/>
+    <project remote="codehub" name="opensourcecenter/madler/zlib.git" path="opensource/zlib" revision="refs/tags/v1.2.11"/>
+    <project remote="codehub" name="opensourcecenter/curl/curl.git" path="opensource/curl" revision="refs/tags/curl-7_78_0"/>
+
+</manifest>
